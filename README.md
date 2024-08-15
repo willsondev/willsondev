@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">codifico con</h2>
+<h2 align="left">Mis skills</h2>
 
 ###
 
